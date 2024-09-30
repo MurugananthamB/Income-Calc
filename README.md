@@ -25,7 +25,7 @@ This is a simple web application that allows users to manage their finances by a
 
 ## Live Demo
 
-[View the live demo here](https://your-netlify-url.netlify.app)
+[View the live demo here](https://inc-calc.netlify.app/)
 
 ## Deployment
 
